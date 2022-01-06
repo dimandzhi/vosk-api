@@ -8,7 +8,7 @@ import (
 	"log"
 	"os"
 
-	vosk "github.com/alphacep/vosk-api/go"
+	vosk "github.com/dimandzhi/vosk-api/go"
 )
 
 func main() {
